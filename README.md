@@ -1,115 +1,172 @@
-👋 Hi, I'm Archna Pal
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Meaningful+Insights;Passionate+about+Data+Analytics+%26+Visualization" alt="Typing SVG" /> </p> <p align="center"> <a href="mailto:palarchnapal8@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ArchnaPal-tech"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <img src="https://komarev.com/ghpvc/?username=ArchnaPal-tech&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="Profile Views"/> </p>
-👩‍💻 About Me
+# Hi 👋, I'm Archna Pal
 
-I'm an Aspiring Data Analyst with a strong background in Mathematics, analytical thinking, and problem solving.
+### Assistant Professor of Mathematics | Aspiring Data Analyst | Business Analyst | SQL | Python | Excel | Power BI | Data Visualization | Analytical Problem Solving
 
-I enjoy transforming raw data into meaningful insights using Excel, SQL, Power BI, and Python.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Transforming+Data+into+Meaningful+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Numbers+into+Business+Insights;Always+Learning+Something+New" />
+</p>
 
-With experience as an Assistant Professor of Mathematics, I have worked with academic data, prepared reports, analyzed student performance, and mentored 400+ students.
+---
 
-🎯 My goal is to start my career in Data Analytics / Business Intelligence and contribute to data-driven decision making.
+# 💫 About Me
 
-🚀 What I Do
-📊 Analyze and clean datasets
-🔎 Extract insights using SQL
-📈 Build interactive Power BI dashboards
-🧹 Perform data cleaning and transformation
-🐍 Analyze data using Python
-📋 Create Excel reports and dashboards
-📐 Apply statistics and mathematical thinking
-💡 Translate data into actionable insights
-🛠️ Tech Stack
-📊 Data Analytics
-<p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> </p>
-🐍 Python
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/> </p>
-📌 Core Skills
-<p> <img src="https://img.shields.io/badge/Data%20Cleaning-2F80ED?style=for-the-badge" alt="Data Cleaning"/> <img src="https://img.shields.io/badge/Data%20Visualization-9B51E0?style=for-the-badge" alt="Data Visualization"/> <img src="https://img.shields.io/badge/Statistics-27AE60?style=for-the-badge" alt="Statistics"/> <img src="https://img.shields.io/badge/Data%20Modeling-F2994A?style=for-the-badge" alt="Data Modeling"/> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX"/> </p>
-📊 Featured Project
-🎓 Student Performance Analysis Dashboard
+🎓 **M.Sc. Mathematics | B.Ed. | B.Sc. PCM**
 
-Excel | SQL | Power BI
+📍 Muzaffarnagar, Uttar Pradesh, India
 
-An end-to-end data analytics project focused on understanding student academic performance.
+📊 Aspiring **Data Analyst** passionate about Data Analytics, Data Visualization, and Business Intelligence.
 
-🔍 Key Analysis
-📌 Student attendance analysis
-📌 Subject-wise performance
-📌 Average marks analysis
-📌 Pass percentage
-📌 Identification of students at academic risk
-📌 Performance trends
-📌 Interactive Power BI dashboard
-🧰 Tools Used
+💡 I enjoy transforming raw and complex data into meaningful insights using **Excel, SQL, Power BI, and Python**.
 
-Excel SQL Power BI
+📈 With a strong background in **Mathematics, Statistics, and Analytical Thinking**, I bring a problem-solving approach to data analysis.
 
-🚧 Project repository coming soon...
+👩‍🏫 Experienced in teaching and mentoring **400+ students**, academic data management, performance analysis, and reporting.
 
-💼 Professional Experience
-👩‍🏫 Assistant Professor of Mathematics
+🌱 Currently strengthening my expertise in **Data Analytics, SQL, Power BI, Python, and Statistics**.
 
-B.I.T. | 2022 – 2026
+---
 
-👩‍🎓 Mentored 400+ students
-📊 Analyzed academic performance using Excel
-📋 Prepared academic reports and dashboards
-🗂️ Managed examination and academic data
-✅ Improved accuracy of academic records
-📅 Coordinated examinations and academic activities
-📊 Deloitte Data Analytics Job Simulation
+# 🛠️ Tech Stack
 
-Forage | Virtual Experience Program
+### 📊 Data Analytics & Visualization
 
-🧹 Cleaned and analyzed business datasets
-📊 Used Excel for data analysis
-📈 Built interactive dashboards
-🔎 Identified trends and business insights
-💡 Developed data-driven recommendations
-📋 Practiced business reporting and visualization
-🏆 Certifications
-Certification	Provider
-📊 Advanced Excel	Satish Dhawale
-🗄️ SQL	Satish Dhawale
-📈 Power BI	Satish Dhawale
-🐍 Python for Data Analysis	Satish Dhawale
-🎓 Education
-🎓 Master of Science — Mathematics
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-D.A.V. Degree College (PG), Muzaffarnagar
-Chaudhary Charan Singh University
-75% | 2018 – 2020
+### 🐍 Python Libraries
 
-🎓 Bachelor of Education
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</p>
 
-I.P.E.T. College, Muzaffarnagar
-Maa Shakumbhari University
-80% | 2021 – 2023
+### 🔧 Core Skills
 
-🎓 Bachelor of Science — PCM
+* 📌 Data Cleaning
+* 📌 Data Analysis
+* 📌 Data Visualization
+* 📌 Dashboard Development
+* 📌 Data Modeling
+* 📌 Statistical Analysis
+* 📌 Business Reporting
+* 📌 Problem Solving
 
-D.A.V. Degree College (PG), Muzaffarnagar
-Chaudhary Charan Singh University
-62% | 2015 – 2018
+---
 
-📚 Currently Learning
-Skill	Progress
-SQL	🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
-Excel	🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
-Power BI	🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%
-Data Analytics	🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%
-Python	🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArchnaPal-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchnaPal-tech&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchnaPal-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p>
-🌱 2026 Goals
-🎯 Get my first Data Analyst opportunity
-📊 Build 5+ portfolio projects
-🧠 Improve advanced SQL skills
-📈 Master Power BI and DAX
-🐍 Strengthen Python for Data Analysis
-💼 Build a strong Data Analytics portfolio
-🚀 Contribute to real-world data projects
-🤝 Let's Connect
-<p align="center"> <a href="mailto:palarchnapal8@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ArchnaPal-tech"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-<p align="center"> <i>“Turning data into insights, one dataset at a time.” 📊</i> </p> <p align="center"> ⭐ Feel free to explore my repositories and follow my journey into Data Analytics! </p>
+# 📚 Currently Learning
+
+I'm continuously improving my Data Analytics skills through hands-on projects and practical learning.
+
+* 📊 Advanced Excel & Power Query
+* 🗄️ Advanced SQL
+* 📈 Power BI & DAX
+* 🐍 Python for Data Analysis
+* 📉 Statistics & Data Interpretation
+* 📊 Data Visualization
+* 🧹 Data Cleaning & Transformation
+* 💼 Business Intelligence
+
+---
+
+# 🚀 Featured Project
+
+## 📊 Student Performance Analysis Dashboard
+
+**Tools:** Excel • SQL • Power BI
+
+An interactive data analytics project focused on analyzing student academic performance.
+
+### 🔍 Key Analysis
+
+* Analyzed student **attendance, internal assessments, and examination scores**.
+* Cleaned and organized raw data using **Excel and SQL**.
+* Developed an interactive **Power BI dashboard**.
+* Analyzed **pass percentage and average marks**.
+* Performed **subject-wise performance analysis**.
+* Identified **attendance and performance trends**.
+* Highlighted students potentially at risk of poor academic performance.
+* Created data-driven insights to support **academic decision-making**.
+
+### 💡 Key Skills Demonstrated
+
+`Data Cleaning` `SQL` `Excel` `Power BI` `Data Visualization` `Dashboarding` `Data Analysis` `Business Insights`
+
+---
+
+# 💼 Professional Experience
+
+### 👩‍🏫 Assistant Professor of Mathematics
+
+**Bhagwant Institute of Technology (BIT), Muzaffarnagar**
+
+* Taught undergraduate mathematics courses.
+* Analyzed student academic performance using **Excel**.
+* Prepared academic reports and performance dashboards.
+* Managed and maintained academic data with a focus on accuracy.
+* Mentored **400+ students**.
+* Coordinated examinations and managed academic records.
+* Applied analytical and statistical thinking to evaluate student performance.
+
+### 📊 Deloitte Data Analytics Job Simulation
+
+**Forage | Virtual Experience Program**
+
+* Worked on a practical data analytics business simulation.
+* Cleaned and analyzed business datasets using **Excel**.
+* Created interactive dashboards to communicate insights.
+* Identified trends and interpreted business data.
+* Developed data-driven recommendations.
+* Strengthened skills in **data visualization, business reporting, and analytical thinking**.
+
+---
+
+# 🏆 Achievements
+
+🥇 Secured **1st Rank** in school during 7th, 8th, 9th, and 10th standards.
+
+🏅 Received certificates and appreciation scholarships for academic excellence.
+
+🏆 Awarded **Best Faculty Award** at BIT, Muzaffarnagar for excellence in teaching and student mentorship.
+
+🧠 Participated in Computing Quiz competitions demonstrating analytical and problem-solving abilities.
+
+---
+
+# 🎯 Career Goal
+
+> **To build a successful career as a Data Analyst by combining my strong mathematical background with practical expertise in Excel, SQL, Power BI, Python, and data visualization.**
+
+I aim to help organizations make **better, faster, and data-driven decisions** by converting raw data into clear and actionable insights.
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:palarchnapal8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Turning Data into Insights • Learning • Growing • Analyzing 📊**
